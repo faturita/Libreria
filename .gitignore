@@ -1,4 +1,4 @@
 Debug/*
-TestLibreria/*
+TestLibreria/Debug/*
 **/*.sdf
 *.sdf
